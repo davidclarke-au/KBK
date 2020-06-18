@@ -1,4 +1,4 @@
-[Email Me!](mailto:adam@kicksbyknoxy.com?subject=[Enquiry])
+[Email Me!](mailto:adam@kicksbyknoxy.com?subject=Enquiry)
 
 ![](https://i.imgur.com/Mu6EUJL.png)
 
